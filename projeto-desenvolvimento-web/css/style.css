@@ -1,0 +1,20 @@
+body{
+  background:gray;
+}
+
+li{
+  color:#33333;
+}
+
+.fonte {
+  font-family: Chalkduster;
+  font-weight: lighter;
+  color:white;
+  letter-spacing: 2px;
+}
+.fonte2 {
+  font-family: Chalkduster;
+  font-weight: lighter;
+  color:white;
+  letter-spacing: 2px;
+}
